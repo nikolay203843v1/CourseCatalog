@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/app_nav_graph"
+    app:startDestination="@id/destination_login">
+
+    <fragment
+        android:id="@id/destination_login"
+        android:name="ru.coursecatalog.feature.auth.LoginFragment"
+        android:label="@string/login_screen" />
+
+    <fragment
+        android:id="@id/destination_main"
+        android:name="ru.coursecatalog.feature.main.MainContainerFragment"
+        android:label="@string/app_name" />
+</navigation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_tab">Главная</string>
+    <string name="favorites_tab">Избранное</string>
+    <string name="account_tab">Аккаунт</string>
+    <string name="search_hint">Search courses…</string>
+    <string name="filter_courses">Фильтр курсов</string>
+    <string name="sort_by_publish_date">По дате добавления</string>
+    <string name="details">Подробнее</string>
+    <string name="price_format">%1$s ₽</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="remove_from_favorites">Удалить из избранного</string>
+    <string name="load_error">Не удалось загрузить курсы</string>
+    <string name="retry">Повторить</string>
+    <string name="favorites_title">Избранное</string>
+    <string name="favorites_empty_title">Здесь пока пусто</string>
+    <string name="favorites_empty_description">Добавляйте интересные курсы с помощью закладки</string>
+    <string name="account_title">Аккаунт</string>
+    <string name="account_stub">Раздел находится в разработке</string>
+</resources>

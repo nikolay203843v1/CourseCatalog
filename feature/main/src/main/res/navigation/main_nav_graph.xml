@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="ru.coursecatalog.feature.main.home.HomeFragment"
+        android:label="@string/home_tab" />
+
+    <fragment
+        android:id="@+id/favoritesFragment"
+        android:name="ru.coursecatalog.feature.main.favorites.FavoritesFragment"
+        android:label="@string/favorites_tab" />
+
+    <fragment
+        android:id="@+id/accountFragment"
+        android:name="ru.coursecatalog.feature.main.account.AccountFragment"
+        android:label="@string/account_tab" />
+</navigation>

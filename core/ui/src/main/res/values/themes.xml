@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CourseCatalog" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/cc_primary</item>
+        <item name="colorOnPrimary">@color/cc_on_background</item>
+        <item name="colorSurface">@color/cc_surface</item>
+        <item name="colorOnSurface">@color/cc_on_surface</item>
+        <item name="colorOutline">@color/cc_outline</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">@color/cc_background</item>
+        <item name="android:statusBarColor">@color/cc_background</item>
+        <item name="android:navigationBarColor">@color/cc_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

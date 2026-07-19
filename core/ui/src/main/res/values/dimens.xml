@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cc_screen_padding">16dp</dimen>
+    <dimen name="cc_content_spacing">16dp</dimen>
+    <dimen name="cc_small_spacing">8dp</dimen>
+    <dimen name="cc_extra_small_spacing">4dp</dimen>
+    <dimen name="cc_control_height">56dp</dimen>
+    <dimen name="cc_control_radius">28dp</dimen>
+    <dimen name="cc_card_radius">24dp</dimen>
+</resources>

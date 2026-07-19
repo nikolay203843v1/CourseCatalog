@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cc_background">#151515</color>
+    <color name="cc_surface">#24252A</color>
+    <color name="cc_surface_variant">#32333A</color>
+    <color name="cc_surface_selected">#32333A</color>
+    <color name="cc_primary">#4CAF63</color>
+    <color name="cc_primary_pressed">#409653</color>
+    <color name="cc_on_background">#F2F2F3</color>
+    <color name="cc_on_surface">#F2F2F3</color>
+    <color name="cc_on_surface_variant">#A9A9AD</color>
+    <color name="cc_outline">#4A4B52</color>
+    <color name="cc_blue">#3D80E7</color>
+    <color name="cc_orange">#F47B2A</color>
+    <color name="cc_error">#FF6B6B</color>
+    <color name="cc_overlay">#8C5F5F5F</color>
+    <color name="cc_transparent">#00000000</color>
+</resources>
