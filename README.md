@@ -43,7 +43,7 @@ feature:main        каталог, избранное, аккаунт и ниж
 
 ## Запуск
 
-Требуются JDK 17 и Android SDK 35.
+Требуются JDK 21 и Android SDK 35.
 
 ```bash
 ./gradlew :app:assembleDebug
@@ -72,5 +72,4 @@ Email: user@example.com
 курсов. Схема Room экспортируется в `data/courses/schemas`.
 
 Подробное описание решений находится в
-[`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md), а учебный разбор проекта — в
-[`docs/PROJECT_GUIDE_RU.md`](docs/PROJECT_GUIDE_RU.md).
+[`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md)
